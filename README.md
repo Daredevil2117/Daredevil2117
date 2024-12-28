@@ -17,7 +17,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> </a>
 </p>
 
-#### **Frontend Development**
+- 🌐 **Frontend Development**
 <p> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS" /> </a>&nbsp;
   <a href="https://redux.js.org/" target="_blank"> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> </a>&nbsp;
@@ -26,7 +26,7 @@
   <a href="https://jquery.com/" target="_blank"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" /> </a>
 </p>
 
-#### **Backend Development**
+- 🛢 **Backend Development**
 <p> 
   <a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /> </a>&nbsp;
   <a href="https://expressjs.com/" target="_blank"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /> </a>&nbsp;
