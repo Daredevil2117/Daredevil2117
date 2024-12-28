@@ -10,10 +10,9 @@
 
 ### 🔧 Tech Skills
 - **Languages:** Java, Python, JavaScript
-- **Frameworks:** Spring Boot, Node.js, React
-- **Databases:** MySQL, MongoDB
+- **Frontend Development:** ReactJS, Redux, CSS, Bootstrap, jQuery
+- **Backtend Development:** Node.js, Django
 - **Tools:** Git, Docker, Postman
-- **AI/ML:** TensorFlow, OpenAI APIs (e.g., ChatGPT)
 
 ---
 
