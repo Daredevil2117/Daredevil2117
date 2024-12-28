@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Tejender 👨‍💻
+# 👋 Hi there! I'm Tejender
 
 ### 👨🏻‍💻 About Me
 - 👨‍💻 Proficient Frontend Developer with expertise in ReactJS for building dynamic and user-friendly web applications.
