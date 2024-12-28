@@ -10,7 +10,7 @@
 
 ### 🛠 Tech Skills
 
-#### **Languages**  
+- 🖥️ #### **Languages**  
 <p style="display: flex; flex-wrap: nowrap;">
   <a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> </a>&nbsp;
   <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a>&nbsp;
@@ -42,18 +42,6 @@
 
 ---
 
-
-### 🔧 Tech Skills
-- **Languages:** Java, Python, JavaScript,<p style="display: flex; flex-wrap: nowrap;">
-  <a href="https://www.java.com/" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> </a>&nbsp;
-  <a href="https://www.python.org/" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> </a>
-</p>
-- **Frontend Development:** ReactJS, Redux, CSS, Bootstrap, jQuery
-- **Backtend Development:** Node.js, Django
-- **Tools:** Git, Docker, Postman
-
----
 
 ### 🌟 My Interests
 - 🖥️ **Web Development:** Enthusiastic about building dynamic, user-friendly, and visually appealing web applications.
