@@ -1,13 +1,9 @@
 # 👋 Hi there! I'm Tejender 👨‍💻
 
 ### About Me
-- 🌱 Currently upgrading my life in **all aspects** (physical, mental, emotional health, and skills).
-- 💡 Exploring and deep-diving into the world of **AI** and learning new tools.
-- 📖 Books I’ve read:
-  - *Atomic Habits* by James Clear.
-  - Currently studying *The 7 Habits of Highly Effective People* by Stephen Covey.
-- 🙏 My priority: Keeping **God** above all in my life.
-- 🚀 Goal: Achieve consistency in personal growth for the next **6 months**.
+👨‍💻 Proficient Frontend Developer with expertise in ReactJS for building dynamic and user-friendly web applications.
+🎨 Skilled in crafting visually appealing and responsive designs using CSS to enhance user experiences.
+💡 Passionate about continuous learning and committed to improving my technical and creative skills daily.
 
 ---
 
