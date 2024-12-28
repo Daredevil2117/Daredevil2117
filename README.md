@@ -22,20 +22,6 @@
 - 🏋️ **Fitness Enthusiast:** Working to keep myself fit and healthy every day.
 - 📚 **Lifelong Learner:** Exploring personal development and technology to grow every day.
 
----
-
-### 🛠️ My Projects
-Here are a few projects that I’m proud of:
-1. **[Project Name 1](#)**: Short description of the project.
-2. **[Project Name 2](#)**: Short description of the project.
-3. **[Project Name 3](#)**: Short description of the project.
-
----
-
-### 💬 Connect With Me
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/your-profile)
-- **Twitter:** [Your Profile](https://twitter.com/your-profile)
-- **Portfolio:** [Your Portfolio](https://your-portfolio.com)
 
 ---
 
@@ -47,7 +33,3 @@ Here are a few projects that I’m proud of:
 
 ### 🌟 Fun Fact
 > "The best way to predict the future is to create it." - Abraham Lincoln
-
----
-
-Feel free to edit this as needed!
