@@ -11,7 +11,7 @@
 ### 🔧 Tech Skills
 - **Languages:** Java, Python, JavaScript
 - **Frontend Development:** ReactJS, Redux, CSS, Bootstrap, jQuery
-- **Backtend Development:** Node.js, Django
+- **Backtend Development:** Node.js, Django, MongoDB
 - **Tools:** Git, Docker, Postman
 
 ---
