@@ -16,10 +16,11 @@
 
 ---
 
-### 🌟 My Interests
-- 🧠 **AI & Machine Learning:** Passionate about solving real-world problems using AI.
-- 🏋️ **Fitness Enthusiast:** Working towards building a **muscular and aesthetic body**.
-- 📚 **Lifelong Learner:** Exploring personal development and technology to grow every day.
+🌟 My Interests
+🖥️ Web Development: Enthusiastic about building dynamic, user-friendly, and visually appealing web applications.
+🧠 AI & Machine Learning: Passionate about solving real-world problems using AI.
+🏋️ Fitness Enthusiast: Working to keep myself fit and healthy every day.
+📚 Lifelong Learner: Exploring personal development and technology to grow every day.
 
 ---
 
