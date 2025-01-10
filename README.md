@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Tejender
 
 ### 👨🏻‍💻 About Me
-- 👨‍💻 Proficient Frontend Developer with expertise in ReactJS for building dynamic and user-friendly web applications.
+- 👨‍💻 Proficient Frontend Developer with expertise in ReactJS for building dynamic and user-friendly web-applications.
 - 🎨 Skilled in crafting visually appealing and responsive designs using CSS to enhance user experiences.
 - 💡 Exploring and deep-diving into the world of **AI** and learning new tools.
 - 💡 Passionate about continuous learning and committed to improving my technical and creative skills daily.
