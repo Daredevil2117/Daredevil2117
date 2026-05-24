@@ -11,7 +11,7 @@
 ### 🔧 Tech Skills
 - **Languages:** Java, Python, JavaScript, TypeScript
 - **Frontend Development:** ReactJS, Redux, CSS, Bootstrap, jQuery
-- **full-stack framework:** NextJS
+- **Full-stack framework:** NextJS
 - **Backtend Development:** Node.js, Django, MongoDB
 - **Tools:** Git, Docker, Postman
 
